@@ -95,11 +95,6 @@ footer {
     margin-right: 30px;
 }
 
-.footer-text span {
-    color: #850AE5;
-    font-weight: bolder;
-}
-
 .article-but:hover{
     transform: scale(1.1);
     transition: 1s linear;
